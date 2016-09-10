@@ -1,0 +1,176 @@
+.container{
+	max-width: 1200px;
+}
+
+/* header titulo  */
+
+.titulo-escuela{
+	font-size: 35px;
+	color: #001234;
+	text-align: center;
+}
+/* lista de links  */
+
+.a-links{
+	text-decoration: none;
+	color:#626262;
+}
+.li-links{ 
+	margin-left: 40px;
+	margin-right:50px;
+	display: inline-block;
+}
+
+/* section 1 revisar el height de la imagen */
+.fondo-uno{
+	margin-top: 30px;
+	background-image: url(../img/dance_1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 450px;
+	max-width: 100%;
+}
+/* section 1 parrafo izquierdo */
+
+.contenerdor-de-section-uno{
+	margin-left: 120px;
+
+}
+
+/* poner en negrita*/
+.studio{
+	margin-top: 70px;
+	font-size: 50px;
+	color: #CDCDCD;
+	: bolder;
+}
+
+/* justificar textos */
+.parrafo-studio{
+	margin-top: 30px;
+	font-size: 13px;
+	color: font-size: 50px;
+	color: #A2A2A2;
+}
+
+.inscribete{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 13px;
+	color: #A2A2A2;
+	background: #000718;
+	border-radius: 4px;
+	padding: 15px;
+	width: 20%;
+}
+
+/* section 2 */
+
+.section-dos{
+	background-image: url(../img/textura_2.jpg);
+	background-position: center;
+	height: 380px;
+	max-width: 100%;
+}
+
+.juilliart{
+	margin-top: 70px;
+	font-size: 23px;
+	text-align: center;
+}
+
+.juilliart-dos{
+	margin-top: 8px;
+	font-size: 23px;
+	text-align: center;
+}
+
+.separador-ofertas{
+	margin-top: -20px;
+	margin-left:350px; 
+	width: 130px;
+	height: 60px;
+}
+
+.ofertas{
+	margin-left: 265px;
+	text-align: center;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 13px;
+	color: #A2A2A2;
+	background: #000718;
+	border-radius: 4px;
+	padding: 20px;
+	width: 30%;
+	margin-bottom: 80px;
+}
+
+/*section 3*/
+
+
+.fondo-izquierdo{
+	background-image: url(../img/instructor_4.jpg);
+	background-position: center;
+	height: 300px;
+	width: 100%;
+	border:1px solid #000A45;
+	
+}
+
+.fondo-derecho{
+	background-image: url(../img/profesor_9.jpg);
+	background-position: center;
+	height: 300px;
+	width: 100%;
+	border:1px solid #000A45;
+
+}
+/*section  boton azul*/
+.nuestros-instructores{
+	margin-top: 244px;
+	margin-left: 390px;
+	text-align: center;
+	position: absolute;
+	text-align: center;
+	font-size: 15px;
+	color: #A2A2A2;
+	background: #002D9F;
+	padding: 20px;
+	width: 34%;
+}
+
+/*section  4 fondo*/
+
+.fondo-cuatro{
+	background-image: url(../img/textura_2.jpg);
+	background-position: center;
+	height: 270px;
+	max-width: 100%;
+}
+
+
+/*section  4 texto*/
+.la-danza{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 100px;
+	margin-right: 130px;
+}
+
+/*section  5 fondo*/
+.fondo-cinco{
+	background:#002D9F;
+	background-position: center;
+	height: 500px;
+	max-width: 100%;
+}
+
+.texto-cinco{
+	margin-top: 100px;
+	margin-left:120px;
+}
+.lista-scinco{
+		list-style: none; 
+}
